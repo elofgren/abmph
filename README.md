@@ -12,3 +12,7 @@ Contents:
 * InPractice.pdf: Slides for 'Agent Based Models in Public Health Practice', a look at several agent-based models used in public health research, including a deep dive into Ebola modeling work
 
 * NetLogo.pdf: Slides for the beginning of the hands-on modeling workshop with NetLogo, containing code for the "Logo Tron" model
+
+* tron.nlogo: A basic NetLogo file where two types of agents compete to claim colored patches. Covers agent movement, breeds, and environmental interaction
+
+* pollution.nlogo: An environmental epidemiology example where factories contaminate the environment, resulting in exposure to a randomly moving population, and eventually disease outcomes. Basic implementation of diffusion and visualization, beginnings of an implementation of pollution cleanup processes (like water purification)
